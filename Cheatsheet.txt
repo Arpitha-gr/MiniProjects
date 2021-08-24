@@ -1,0 +1,6 @@
+1. display: inline - element occupies as much as required
+   block: element occupies entire width
+   inline-block: element occupies that width as given by us, so we can adjust the width it occupies
+
+2. To reduce the gap between inline block elements, use margin right. 
+3. border: 5px solid red; --> border-width, border-style, border-color
