@@ -1,1 +1,1 @@
-# Resume-1
+Mini projects using HTML and CSS
